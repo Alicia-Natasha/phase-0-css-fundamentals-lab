@@ -1,5 +1,36 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+.title{
+  text-align: center;
+}
+.picture{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#theDownPart{
+  
+  #links{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(243, 167, 167);
+  }
+}
+#fontStuff{
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property{
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#details{
+  #first{
+  float: left;
+  background-color: rgb(243, 167, 167);
+  width: 25%;
+  text-align: center;
+  }
 }
